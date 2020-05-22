@@ -1,3 +1,8 @@
+<h2>Day 45</h2>
+<h4>May 22, 2020</h4>
+
+[Continued working through FreeCodeCamps "Node and Express" walkthrough challenges to continue my learning and understanding of how the backend works](https://glitch.com/edit/#!/node-express-walkthrough)
+
 <h2>Day 44</h2>
 <h4>May 21, 2020</h4>
 
