@@ -8,7 +8,7 @@ Watched a [moshhamedani YT video on REST APIs](https://www.youtube.com/watch?v=p
 
 <h2>Day 42</h2>
 
-[More diving into the backend with NPM, Express, Nodemon, and Dotenv. Nodemon is great, no need to rerun npm start while testing, starting to understand the components of express request methods and their syntax. And Dotenv is amazing for hiding sensitive data from the user! Got a walkthrough and tutorial to watch tomorrow that will hopefully help me ge[even better understanding of all this!](https://github.com/ChristianPari/Intro-to-REST-APIs/tree/master/FirstNPM)
+[More diving into the backend with NPM, Express, Nodemon, and Dotenv. Nodemon is great, no need to rerun npm start while testing, starting to understand the components of express request methods and their syntax. And Dotenv is amazing for hiding sensitive data from the user! Got a walkthrough and tutorial to watch tomorrow that will hopefully help me get an even better understanding of all this!](https://github.com/ChristianPari/Intro-to-REST-APIs/tree/master/FirstNPM)
 
 <h2>Day 41</h2>
 
