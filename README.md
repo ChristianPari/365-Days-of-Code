@@ -1,3 +1,9 @@
+<h2>Day 46</h2>
+<h4>May 23, 2020</h4>
+
+Completed FCC's Node Express Challenge/tutorial on [Glitch](http://Glitch.com/edit/#!/node-express-walkthrough), also finished up 
+a [Mosh Hamedani YT video on RESTful APIs w/ Node](http://GitHub.com/christianpari/intro-to-REST-APIs/tree/master/REST-API-Walkthrough), going to finish with some research on the NPM package Joi
+
 <h2>Day 45</h2>
 <h4>May 22, 2020</h4>
 
@@ -11,7 +17,7 @@ What a codeNight, [really dived deep into the backend tonight. Worked through th
 <h2>Day 43</h2>
 <h4>May 20, 2020</h4>
 
-Watched a [moshhamedani YT video on REST APIs](https://www.youtube.com/watch?v=pKd0Rpw7O48) and did the [walkthrough](https://github.com/ChristianPari/Intro-to-REST-APIs/tree/master/Full-Intro1), starting to understand the different aspects of the request and response arguments within the callback function of the requests and how to access the data I need for each one
+Watched a [Mosh Hamedani YT video on REST APIs](https://www.youtube.com/watch?v=pKd0Rpw7O48) and did the [walkthrough](https://github.com/ChristianPari/Intro-to-REST-APIs/tree/master/Full-Intro1), starting to understand the different aspects of the request and response arguments within the callback function of the requests and how to access the data I need for each one
 
 <h2>Day 42</h2>
 <h4>May 19, 2020</h4>
