@@ -1,3 +1,8 @@
+<h2>Day 47</h2>
+<h4>May24, 2020</h4>
+
+Started up [my first a Java repo on GitHub](https://github.com/ChristianPari/Intro-to-Java), simply to learn the basics and programming syntax (for now). Began going over the documentation and a video for MongoDB to get an idea of what I'll be working with later this week!
+
 <h2>Day 46</h2>
 <h4>May 23, 2020</h4>
 
