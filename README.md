@@ -1,5 +1,10 @@
+<h2>Day 48</h2>
+<h4>May 25, 2020</h4>
+
+Continued work with Java, [learned about data types and classes (primitive, complex/objects)](https://github.com/ChristianPari/Intro-to-Java/commit/f067d5a9bbbfb08839d9371983890bd11c8df611), understanding and noting the types of primitive data types and their differences, how to get user input using the Scanner class
+
 <h2>Day 47</h2>
-<h4>May24, 2020</h4>
+<h4>May 24, 2020</h4>
 
 Started up [my first a Java repo on GitHub](https://github.com/ChristianPari/Intro-to-Java), simply to learn the basics and programming syntax (for now). Began going over the documentation and a video for MongoDB to get an idea of what I'll be working with later this week!
 
