@@ -1,3 +1,8 @@
+<h2>Day 49</h2>
+<h4>May 26, 2020</h4>
+
+More time on Java, [created my first public class and used its properties and methods to create new objects and manipulate its data within the Main class code block, practice with data type methods and numeric expressions.](https://github.com/ChristianPari/Intro-to-Java/commit/0ac4fcca81b42977572f09c18a59bf074c2d7190) Continued research and videos on MongoDB to get a good understanding of the syntax and how the data is created and stored. Also learned the difference between SQL and NoSQL databases which is cool!
+
 <h2>Day 48</h2>
 <h4>May 25, 2020</h4>
 
