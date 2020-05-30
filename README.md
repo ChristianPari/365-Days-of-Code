@@ -1,3 +1,23 @@
+<h2>Day 53</h2>
+<h4>May 30, 2020</h4>
+
+/////////////////////////////////////////////////////////////////
+
+<h2>Day 52</h2>
+<h4>May 29, 2020</h4>
+
+Got MongoDB Compass installed and plan on trying to attempt creating a DB and using it my simple server project over this weekend. [So far I've installed all my packages, and created app.js, the root route and middleware](https://github.com/ChristianPari/Intro-to-REST-APIs/tree/master/REST-API-v1)
+
+<h2>Day 51</h2>
+<h4>May 28, 2020</h4>
+
+[Completed JS alg that used a loop to cycle through arrays to convert a number parameter to its roman numeral equivalent(]https://github.com/ChristianPari/Algorthims/blob/master/intermediate%20alrogithms/convert_to_roman.js) Continued working with Java basics, this time work w/ Java array syntax/setup. Continued work with REST APIs and implemented all main CRUD methods into [my code](https://github.com/ChristianPari/Intro-to-REST-APIs/tree/master/Full-Intro1), the syntax and how to setup these requests are really starting to click, can't wait to start MongoDB tomorrow!
+
+<h2>Day 50</h2>
+<h4>May 27, 2020</h4>
+
+Completed an algorithm that used RegExp to remove all non 'alpha-numerics' and check if it's a [palindrome](https://github.com/ChristianPari/Algorthims/blob/master/intermediate%20alrogithms/palindrome_checker.js) Spent another hour and a half on another algorithm that has me stumped, will be spending more time on it tomorrow!
+
 <h2>Day 49</h2>
 <h4>May 26, 2020</h4>
 
