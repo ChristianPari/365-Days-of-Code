@@ -1,7 +1,7 @@
 <h2>Day 53</h2>
 <h4>May 30, 2020</h4>
 
-/////////////////////////////////////////////////////////////////
+POST PATCH and DELETE reqs for this server project, all write/read my .txt DB file and updates github.com/ChristianPari/… into doing static files for the routes to have a front end display OR attempting to swap my .txt for MongoDB Atlas cluster
 
 <h2>Day 52</h2>
 <h4>May 29, 2020</h4>
