@@ -1,3 +1,8 @@
+<h2>Day 56</h2>
+<h4>June 2, 2020</h4>
+
+Using the Readline module in JS to make algorithms that utilize the Command Line Interface, created a dice game, a word converter, and string converter. Using CLI in my algorithms makes them much more interesting!
+
 <h2>Day 55</h2>
 <h4>June 1, 2020</h4>
 
