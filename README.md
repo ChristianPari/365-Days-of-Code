@@ -1,3 +1,8 @@
+<h2>Day 55</h2>
+<h4>June 1, 2020</h4>
+
+Recreated another server using a MongoDB Atlas cluster as the database, really want to make sure I have a really good understanding on how to setup a server, connect to an Atlas cluster, as well as syntax for using express and middleware in Node
+
 <h2>Day 54</h2>
 <h4>May 31, 2020</h4>
 
