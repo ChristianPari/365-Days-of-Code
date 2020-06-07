@@ -1,3 +1,8 @@
+<h2>Day 58</h2>
+<h4>June 4, 2020</h4>
+
+Integrated a local text file for storage in the dice CLI alg to save scores will turn to full DB soon, can be displayed via term! Made npm scripts so anyone can simply run the program, get setup and be able to use it! 
+
 <h2>Day 57</h2>
 <h4>June 3, 2020</h4>
 
