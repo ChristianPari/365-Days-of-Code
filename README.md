@@ -1,3 +1,94 @@
+<h2>Day 75</h2>
+<h4>June 21, 2020</h4>
+More multi-tasking:<br>
+Working in class movie rental project (#pug reworked, patch n delete reqs made to manipulate #DB)<br>
+Completed admin route to manipulate songs in my music site #DB; create new song doc, update a song doc, or delete a song doc
+
+<h2>Day 74</h2>
+<h4>June 20, 2020</h4>
+Created an admin page to manipulate data for Movie Rental App Project, created new #pug files and have backend working for requests.<br>
+Worked on my music streaming app, further implemented admin page so #DB manipulation.
+
+<h2>Day 73</h2>
+<h4>June 19, 2020</h4>
+Created more routers for songs and admin pages, adding collections to my DB and filling w/ documents to use in my app. Songs are displayed on route and are filterable via search bar. Admin page WIP to manipulate DB data
+
+<h2>Day 72</h2>
+<h4>June 18, 2020</h4>
+Continued work on the music website, changed the idea to streaming music instead of a music downloader.<br>
+Created the homepage w/#pug am working on a search filter for songs, artists and albums on the page.
+
+<h2>Day 71</h2>
+<h4>June 17, 2020</h4>
+Began creation of a new project:
+Goal is to make a music download mimic site with abilities to search for music, artists, albums, and songs, and have routes for each of them<br>
+Technology being used:
+- Pug
+- Node
+- MongoDB
+- CSS<br>
+
+#Express server initialized and connection to #DB established. Created my models and used another #API to retrieve data to fill my #DB via Mongoose create method
+
+<h2>Day 70</h2>
+<h4>June 16, 2020</h4>
+Created a route for admin adding movies to the #DB in my current movie rental project using #pug #js #css, using fetch to execute the #API requests#. Can also delete movies from home
+
+<h2>Day 69</h2>
+<h4>June 15, 2020</h4>
+I implemented #pug #templateEngine into a previous server project for a movie rental site to create a 'admin' #frontend. Today created a DEL request to remove movies from the #DB
+
+<h2>Day 68</h2>
+<h4>June 14, 2020</h4>
+Worked with #templateEngines #pug, much simpler and easy to grasp, created dynamic elms and got a basic understanding of the syntax, will use in my projects. More work with serving static files and making requests
+
+<h2>Day 67</h2>
+<h4>June 13, 2020</h4>
+All desired routes are created for current project; home page, positions page (QBs or HBs), and individual player page.<br>
+Working on PATCH for individual player, POST for each position to create new player document
+
+<h2>Day 66</h2>
+<h4>June 12, 2020</h4>
+#API Implemented specific routes for players so a user can look at all of player X statistics (#HREF for each player, route dedicated for that player)<br>
+#Frontend: #DELETE req works<br>
+#PATCH is in progress
+
+<h2>Day 65</h2>
+<h4>June 11, 2020</h4>
+Began creation of QBs route #frontend, created initial #API GET request to display players on #DOM from my #DB. Created search bar on this page that hides or reveals players according to search text.
+
+<h2>Day 64</h2>
+<h4>June 10, 2020</h4>
+Created another #Mongoose #Model for HB position, the routes to make all the #CRUD requests, added HBs to the nav bar, and started implementing more #frontend into my application.
+
+<h2>Day 63</h2>
+<h4>June 9, 2020</h4>
+Started creating the #FrontEnd of my app; homepage has a title, nav bar for football positions. When a tab is clicked a new div is created below that displays all players at that position and their stats from DB
+
+<h2>Day 62</h2>
+<h4>June 8, 2020</h4>
+Reworked the QB #Schema and created all #CRUD requests for the qbs route of my #API<br>
+Goal: To create a NFL player reference application<br>
+Learned: Understanding Promises more, and try catch statements.
+
+<h2>Day 61</h2>
+<h4>June 7, 2020</h4>
+Excitement is taking over now that I'm going to begin creating my first 'simple' #FullStack app using #Node #JS #HTML #CSS #Express #MongoDB. I'll be starting from scratch, and can't wait to see what new techniques and skills I learn<br>
+
+Began creating the #Express server, connecting my #MongoDB and started to setup #routers<br>
+I want this app to allow the user to look through a #database of NFL players and view stats by position<br>
+Schema created for QBs
+
+<h2>Day 60</h2>
+<h4>June 6, 2020</h4>
+Cont. my studies on #Mongoose n #Express server creation and how they work together, #Java still is a challenge but continuing to work at it and have really began linking the similarities with #javascript which is helping me a ton. Looking forward to class tonight!<br>
+
+Completed more command line based algorithms, converting strings to pig Latin and another that converts any string into binary code 
+
+<h2>Day 59</h2>
+<h4>June 5, 2020</h4>
+Continued working with Java and learning how to use encapsulation to privatize data within my code and then using GETTERS and SETTERS to assign and retrieve data from within the classes that have private data
+
 <h2>Day 58</h2>
 <h4>June 4, 2020</h4>
 
