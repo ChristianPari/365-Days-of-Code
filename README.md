@@ -1,3 +1,28 @@
+<h2>Day 80</h2>
+<h4>June 26, 2020</h4>
+Day 4 Algorthims that worked w/ creating custom classes in #JS w/ custom constructors and methods<br>
+Continued work on my Music Site, began implementing artist specific routes and #pug templates
+
+<h2>Day 79</h2>
+<h4>June 25, 2020</h4>
+Day 3 of JS consisted of searching through array data and returning second largest number, and working with try, catch and throw
+
+<h2>Day 78</h2>
+<h4>June 24, 2020</h4>
+Day 2 Created a couple simple programs using readline that use a lot of if else and switch statements, along with loops.<br>
+Recreated another #backend #API simple setup to really get it down pact and get it more pressed into memory
+
+<h2>Day 77</h2>
+<h4>June 23, 2020</h4>
+Began #10DaysofJS to do during @careerdevs break<br>
+Day0 was simple #readline program to print sums or concatenation of stdin data and preassigned variables<br>
+Day1 a couple of programs that utilize readline for input to find Demi skins of shapes
+
+<h2>Day 76</h2>
+<h4>June 22, 2020</h4>
+Completed the patch req on my movie rental site, ironed out all the errors I was having; runs like a dream now.<br>
+Began working on my next mongoose model for my music site, and made docs within the collection on MongoDB
+
 <h2>Day 75</h2>
 <h4>June 21, 2020</h4>
 More multi-tasking:<br>
