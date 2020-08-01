@@ -1,3 +1,103 @@
+<h2>Day 111</h2>
+
+Spent A TON of time going over React Documentaion, understanding Component Classes, Stateless Functions, Rendering, State, Prop Types... There's so much exciting code here, can't wait to really dive into it!
+
+<h2>Day 110</h2>
+
+Added more admin functionallity to the Movie Rental site, allows the admin to update a movie from the home page, it updates live, updates the DB. Also new movie creation from a admin page route successful 
+
+<h2>Day 109</h2>
+
+Achieved a basic Todo List app using ReactJS that implements JSON Placeholder data via axios request as todo list items. New items can be created, marked as completed and deleted from the db. Really cool to start getting my feet wet w/ React!<br>
+Learned a lot of new things obviously, planning on creating another basic application using React to better understand how it's used properly
+
+<h2>Day 108</h2>
+
+Movie Rental site is coming along great! Implemented separate UI layouts depending on if user is admin or not via PUGjs and also create new middleware to check admin properties of users. Movie deletion removed from DB and a users rented array
+
+<h2>Day 107</h2>
+
+Began implementing the NPM package cookie for the use of storing web tokens within my movie site, no more using local storage! Also implemented some logic in pug to make the login and logout btns change depending on wether the user is logged in<br>
+Reworked some Auth middleware to use the cookie package and did lots of testing to ensure successful logins and logouts
+
+<h2>Day 106</h2>
+
+Weekend full of Algorithm practice<br>
+Solved an alg that required me to learn a new math formula to find the orbital period for an object in space relative to earth. Also used some obj destructuring. And a few other algs
+
+<h2>Day 105</h2>
+
+Algorithms and algorithms, I'm really trying to focus entirely on thinking computationally and algorithmically so that I'm able to dissect a problem and attack it in the write way<br>
+Tonight completed a JS object constructor algorithm<br>
+This algorithm goal was to create methods in a object constructor that return specific values for first, last or full name for each new Person (class) that was created
+
+<h2>Day 104</h2>
+
+Implemented a functioning login and logout feature on the front end using PUG of my movie rental site using JSON Web Token and stored the users token in local storage to be used later in other routes
+
+<h2>Day 103</h2>
+
+Converted 4 routes dealing with Database manipulation for Movie Inventory to 2 routes (add/delete) and (rent/return), both require Auth (user or admin) and all implement Mongo Update Operators in requests
+
+<h2>Day 102</h2>
+
+Lots of time spent using Mongo operators to manipulate data within a doc of movie and user collections when a user rents or returns a movie. Understanding Mongo a lot better after reading over their documentation<br>
+Also created a single route for an admin, n depending on their admin level, will grant them the ability to increase or decrease the inventory of a specific movie. Did this also using Mongo operators 
+
+<h2>Day 101</h2>
+
+Tonight's implementation of User Auth via JWT for routes that manipulate my DB<br>
+Really starting to see the power of MongoDB and created a patch method in movie router to update specific properties and fields from the request body data
+
+<h2>Day 100</h2>
+
+Finally fixed compile error, once I dove in to React I began creation of a Todo List app. So far I have created multiple components, used props from main App component to change the state property from elements created with a deeper component<br>
+Learned a lot tonight, but is also a lot to take in. The idea of a components ladder with structure and properties sounds amazing and can't wait to develope better skills and abilities with React.
+
+<h2>Day 99</h2>
+
+Spent time going over React documentation, watching videos and following along with code.<br>
+For some reason after I create the react app from the terminal and try to run with npm, I get a compile error.. couldn't figure out why but plan to!
+
+<h2>Day 98</h2>
+
+Implemented the adminAuth and userAuth middlewares into my routers for the Movie Rental Site. AdminAuth ensures a user has admin capabilities and userAuth ensures the current user's JWT hasn't expired
+
+<h2>Day 97</h2>
+
+Worked with Movie Site, started developing admin authentication for routes that allow manipulation of the DB; logging in which stores a JWT for an hour (for testing), then using that Token through site to Auth a User 
+
+<h2>Day 96</h2>
+
+Created a middleware function that extracts a users ID from JSON Web Token to check if the user has admin capabilities on the music rental site. Also spent time helping a classmate debug an error which was good practice
+
+<h2>Day 95</h2>
+
+CLI Algoirthm practice with array and user input manipulation with use of for loops and RegExp.<br>
+Continued work with JWT on movie rental site to create the Token in user login for authorization in further routes
+
+<h2>Day 94</h2>
+
+Successfully created the beginning process of a MEN Stack app, DB connected, working routes n requests made, mongo model made n one WIP, DB partially filled<br>
+Really glad with my understanding of the backend environment<br>
+Also continued research on React and will begin implementing it into an application this week!<br>
+Understanding JS classes and React Components, along with what and how JSX is used to communicate to React to create a virtual DOM
+
+<h2>Day 93</h2>
+
+More research on JWT and Bcrypt, getting a better understanding of how to encrypt with hash and using JWT sign method to create a token!<br>
+More work with recursion, starting to understand the process more clearly, how it evaluates the call stack
+
+<h2>Day 92</h2>
+
+Really trying to keep the algorithm practice a constant exercise each day! Today consisted all with array manipulation with the array being created from a single integer argument.<br>
+"Think Computationally" is the goal<br>
+Also spending a lot of time researching and reviewing documentation on JWT and Bcrypt, can't wait to really implement this into an application!
+
+<h2>Day 91</h2>
+
+Continued researching JSON Web Tokens and getting a good understanding of a tokens properties (header, payload, signature) and the process to encrypt using NodeJS bcrypt
+
 <h2>Day 90</h2>
 
 Dove straight into using bcrypt and jwt by implementing them into latest movie site for user account creation<br>
