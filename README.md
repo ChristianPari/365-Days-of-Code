@@ -1,3 +1,8 @@
+<h2>Day 112</h2>
+
+Completed some algorithms regarding Classes and constructors in JavaScript, figured it's a good idea since I'll be using Classes in React.<br>
+Also continued studying React and completing exercises to get familiar with it!
+
 <h2>Day 111</h2>
 
 Spent A TON of time going over React Documentaion, understanding Component Classes, Stateless Functions, Rendering, State, Prop Types... There's so much exciting code here, can't wait to really dive into it!
