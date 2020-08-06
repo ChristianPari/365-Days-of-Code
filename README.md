@@ -1,3 +1,21 @@
+<h2>Day 116</h2>
+
+Today was spent continuing exercises with React and understanding the process of state and lifecycle methods within React Components 
+
+<h2>Day 115</h2>
+
+Well today was very unfortunate with regards to coding, I lost power for most of the night and my laptop had barely any juice left in the battery from the night before but I was able to complete an algorithm exercise tho so not a total waste! 
+
+<h2>Day 114</h2>
+
+Spent the night completing algorithms and peer coding, very beneficial being able to watch someone else code and see the differences in coding styles and methodology used.<br>
+Reworked the movie rental admin post route to create a new movie too
+
+<h2>Day 113</h2>
+
+More time spent with React exercises, learning how to use stateful and stateless Components and when either should be used<br>
+Also some time reworking code within my movie rental project that handles movie creation from an admin page
+
 <h2>Day 112</h2>
 
 Completed some algorithms regarding Classes and constructors in JavaScript, figured it's a good idea since I'll be using Classes in React.<br>
