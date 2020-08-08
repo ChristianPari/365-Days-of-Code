@@ -1,3 +1,8 @@
+<h2>Day 119</h2>
+
+Completed a set of React exercises and feel great to have gotten through it with a pretty good understanding of how JSX and Components work! Created a whole file for reference bc I know I'll need it<br>
+Back to algorithms
+
 <h2>Day 118</h2>
 
 Today was mostly all about react n lifecycle methods! Understanding how to use them and what their uses are, since certain ones are better for certain situations. Can't wait to really start working with this!<br>
