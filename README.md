@@ -1,3 +1,13 @@
+<h2>Day 118</h2>
+
+Today was mostly all about react n lifecycle methods! Understanding how to use them and what their uses are, since certain ones are better for certain situations. Can't wait to really start working with this!<br>
+Also reworked the movie site a bit
+
+<h2>Day 117</h2>
+
+Spent the night trying to implement a functional front end rent and return button for movies by a user on my movie rental site. Running into some errors but will work through them over the weekend<br>
+Also worked w/ algorithms prior to the site
+
 <h2>Day 116</h2>
 
 Today was spent continuing exercises with React and understanding the process of state and lifecycle methods within React Components 
