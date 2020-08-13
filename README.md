@@ -1,3 +1,17 @@
+<h2>Day 123</h2>
+
+Cannot express how much time I am spending on React and Redux right now. Will be getting into make mini projects soon to begin getting a good understanding for the syntax and new coding techniques that I have been learning!
+
+<h2>Day 122</h2>
+
+Refactored my movie rental rent/return btns to function dynamically/update on the site when a request is executed by the user<br>
+Began working with Redux via exercises nd small challenges, I'll begin exercises that implement it into React soon
+
+<h2>Day 120-121</h2>
+
+Going hard with React documentation and exercises to really get a good base before jumping into more in depth coding<br>
+Also implemention of fully functioning rent and return movie btns into my movie rental site w/ some pug dom manipulation
+
 <h2>Day 119</h2>
 
 Completed a set of React exercises and feel great to have gotten through it with a pretty good understanding of how JSX and Components work! Created a whole file for reference bc I know I'll need it<br>
