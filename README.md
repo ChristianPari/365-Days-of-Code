@@ -1,3 +1,39 @@
+<h2>Day 129-131</h2>
+
+These past couple days I have been spending a lot of time configuring Pug views for the movie rental site to allow more user functionality, a ton of work with React and Redux between exercises and challenges to get the understanding down
+
+<h2>Day 127-128</h2>
+
+Over the last two days I've completed tons of React Redux challenges, reviewed documentation of both to get familiar with their syntax and various methods<br>
+Tonight completed my signup page, dynamic error handling/responsive msgs for client
+
+<h2>Day 126</h2>
+
+Created a SignUp page for new users, submitting the form executes multiple fetch reqs to validate and create the user doc in mongoDB, and then another to Login and redirect them to the home page of the move site 
+
+<h2>Day 125</h2>
+
+Continued working with Redux, learning how to manipulate state by using reducer and action events which use dispatch to call these events and see how they send data back to the Redux store and ultimately alter the state
+
+<h2>Day 124</h2>
+
+Completed an algorithm that sums up all prime numbers found within a length of numbers, achieved the answer as a class<br>
+Also began a rough creation of a signup page for the movie rental site, user so far can create an account/be added to db. Will work on redirection, and homepage signup button tomorrow, along with more #React and #Redux
+
+<h2>Day 123</h2>
+
+Cannot express how much time I am spending on React and Redux right now. Will be getting into make mini projects soon to begin getting a good understanding for the syntax and new coding techniques that I have been learning!
+
+<h2>Day 122</h2>
+
+Refactored my movie rental rent/return btns to function dynamically/update on the site when a request is executed by the user<br>
+Began working with Redux via exercises nd small challenges, I'll begin exercises that implement it into React soon
+
+<h2>Day 120-121</h2>
+
+Going hard with React documentation and exercises to really get a good base before jumping into more in depth coding<br>
+Also implemention of fully functioning rent and return movie btns into my movie rental site w/ some pug dom manipulation
+
 <h2>Day 119</h2>
 
 Completed a set of React exercises and feel great to have gotten through it with a pretty good understanding of how JSX and Components work! Created a whole file for reference bc I know I'll need it<br>
