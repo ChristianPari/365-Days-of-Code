@@ -1,3 +1,22 @@
+<<<<<<< HEAD
+=======
+<h2>Day 137</h2>
+
+Continued work on the Express Boilerplate project, installed needed dependencies and created the basic layout of the App file, and also connected the server to a Mongo database
+
+<h2>Day 136</h2>
+
+Began a new project to setup an Express App boilerplate that I can reuse for future projects and really only have to tweak where needed. Looking forward to testing my memory of setting up backend code from scratch!
+
+<h2>Day 135</h2>
+
+Completed a Data Parser algorithm that used JavaScript file system package to read a local database and then manipulate the data in JSON format and then populate a new local database with the newly formatted data
+
+<h2>Day 132-134</h2>
+
+Been working on a lot past couple of days, between the movie rental sites user profile page and it's dynamic dom, to algorithms, and now today with a new React Redux mini project! This mini project just consists of making a DOM that allows users to view a page (and cycle through pages) of Pokémon names and then click a link to bring them to a specific Pokémon page
+
+>>>>>>> 198b163055e6d0ef9fb695922fe8bc0c68c6b6dd
 <h2>Day 129-131</h2>
 
 These past couple days I have been spending a lot of time configuring Pug views for the movie rental site to allow more user functionality, a ton of work with React and Redux between exercises and challenges to get the understanding down
