@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h2>Day 129-131</h2>
 
 These past couple days I have been spending a lot of time configuring Pug views for the movie rental site to allow more user functionality, a ton of work with React and Redux between exercises and challenges to get the understanding down
@@ -21,8 +20,6 @@ Continued working with Redux, learning how to manipulate state by using reducer 
 Completed an algorithm that sums up all prime numbers found within a length of numbers, achieved the answer as a class<br>
 Also began a rough creation of a signup page for the movie rental site, user so far can create an account/be added to db. Will work on redirection, and homepage signup button tomorrow, along with more #React and #Redux
 
-=======
->>>>>>> b6e7eae737889aca7c631daa89f078d9c7621996
 <h2>Day 123</h2>
 
 Cannot express how much time I am spending on React and Redux right now. Will be getting into make mini projects soon to begin getting a good understanding for the syntax and new coding techniques that I have been learning!
