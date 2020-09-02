@@ -1,3 +1,13 @@
+<h2>Day 140</h2>
+
+Implemented bcrypt into my express boilerplate to encrypt a new users' password before it is created as a doc in the DB. Created a login route, validates req body, if all passed creates a JWT and then responds w/ 200
+
+<h2>Day 138_139</h2>
+
+Continued work on my Express boilerplate, created a Home router that handles any requests made to the root route, created a simple middleware, passed static files to /home route to display a simple webpage.<br>
+Also began User model:<br>
+Contains Email, Username, Password, all with validation within model. Began router creation for /user path, and route for new users. Middleware to validate data from the req in progress
+
 <h2>Day 137</h2>
 
 Continued work on the Express Boilerplate project, installed needed dependencies and created the basic layout of the App file, and also connected the server to a Mongo database
