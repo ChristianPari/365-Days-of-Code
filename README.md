@@ -1,3 +1,80 @@
+<h2>Day 169</h2>
+
+Worked on two projects:<br>
+1) User SETUP w/ MERN STACK boilerplate<br>
+ - worked on creating axios requests that use state data inside a component which can be used to output errors before a reqs is made<br>
+2) Trello Minnick site<br>
+ - began further creation of the Cards component, implementing the ability to create items after the Card is created. Getting "too many rerenders" error so will work through that tomorrow!
+
+<h2>Day 168</h2>
+
+So far in the React Trello copycat I'm creating, I have implemented the ability to create a list and have its data saved to state via a ListContext I created using hooks, as well as display on the DOM!
+
+<h2>Day 167</h2>
+
+Spent the night creating a template repo on GitHub that uses a simplified version of create-react-app, now I just have necessary files once installed and I can add on to this when needed<br><br>
+Began a new React app that will be a multi-list app<br>
+The goal for this app is to allow the user to make lists and add items to each list, similar to that of Trello. That list data will be stored in state using hooks and in local storage
+
+<h2>Day 166</h2>
+
+Revamped a previous project to use state to store form data which is then used as the request body when making a request to the backend<br>
+Implemented a new Component to my reading list app, renders book details from the Book state within context<br>
+Along with the new Component, I created functionally to actually remove data from state and update the React app<br>
+Will finish this project tomorrow and continue with #Java
+
+<h2>Day 165</h2>
+
+Continuing work w/ React useState and useContext, implementing my own Contexts into a reading list type application, ability to add books to the list and alter theme. Understanding the differences between class and functional components better
+
+<h2>Day 164</h2>
+
+Started another React project to continue learning Hooks like useState and useContext. Implemented another version of simple light and dark theme<br>
+Understanding Context better and how to pass state to child components
+
+<h2>Day 158-163</h2>
+
+Working hard w/ React, hooks, state and context to get a really good understanding of how they work so smoothly together to create amazing apps. I finished the simple user boilerplate<br>
+And finally!<br>
+I have decided to pull away time from Python and jump into Java! Already began running through some algorithms to get myself associated again with the syntax
+
+<h2>Day 155-157</h2>
+
+Over the last couple days I've really dove deeper into Reacts' functionally. I've created theming (dark mode) capability for my React App using Custom Hooks, State and Context. The theme is carried over to each page of the application.<br>
+My custom hook access and uses Local Storage to store the themes' state and uses it to style the apps components that are nested in the ThemeProvider component I created
+
+<h2>Day 152-154</h2>
+
+Continuing on my Python journey w/ lots of algorithms, trying to understand the (new to me) methods that Python offers to make better written code but feel like I have a good grasp on the syntaxing<br>
+Also been at work w/ React, creating page like components that render by route handling, creation of a form and input components to create login and sign up forms dynamically. Reworking backend code to fix errors
+
+<h2>Day 149-151</h2>
+
+Still working hard with Python, knocking out algorithms to help my computational thinking<br>
+Created a simple CLI Mastermind game w/ Python's input method<br>
+Constant work with Python algorithms as well<br>
+Also continued work w/ ReactJS and created a new dynamic component that receives its information via props then rendered, its a simple button component but great work with understanding props
+
+<h2>Day 148</h2>
+
+Dove into another React project, learned more about handling routes w/ BrowserRouter via react-router-dom pkg. Created bare pages/components 
+
+<h2>Day 140</h2>
+
+Completed a simple React Redux API using PokeAPI for data, user can cycle through pages of Pokémon and view individual ones information, also implemented a search bar<br>
+Also completed more Python algorithms
+
+<h2>Day 145-146</h2>
+
+Continuing work w/ Python, trying to understand the new syntax and keywords that are used, started algorithms tho to start getting some serious practice in<br>
+Also with regards to React Redux, I almost got a fully working Pokémon React App, have a home page (implementing pagination tomorrow, as well as search bar) with list of Pokémon, ability to view each Pokémon and gives information
+
+<h2>Day 141-144</h2>
+
+Finished up my Express Boilerplate, excited to be able to have a quick go to for an Express Backend!<br>
+Started learning Python today as well, went over the basics and small challenges<br>
+
+
 <h2>Day 140</h2>
 
 Implemented bcrypt into my express boilerplate to encrypt a new users' password before it is created as a doc in the DB. Created a login route, validates req body, if all passed creates a JWT and then responds w/ 200
