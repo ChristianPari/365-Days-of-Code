@@ -1,3 +1,27 @@
+<h2>Day 174</h2>
+
+Almost completed all required tasks for this React hotel project,
+it doesn't look the greatest but functionality is all there. Used useState, useEffect, useContext/createContext hooks throughout this program
+
+<h2>Day 173</h2>
+
+Began a one last Front End only React project before moving deep into Java, this project consists of making a simple hotel site that allows for "rent" and "return" of rooms. This project will enhance my abilities w/ useState and useContext<br>
+So far I completed an algorithm that creates the initial state data upon first render, and have that data stored in local storage, time to create all the components!!
+
+<h2>Day 172</h2>
+
+Today I continued working through Java and I'm really seeing that having a good understanding of JavaScript is helping me<br>
+Created a simple mortgage calculator that utilizes user input, will add error handling next!
+
+<h2>Day 171</h2>
+
+Went through a short course on Object Oriented Programming, getting a better understanding of Encapsulation, Inheritance and Polymorphism. Course used C# so was able to get my feet wet with that new language as well
+
+<h2>Day 170</h2>
+
+Starting a deep dive into OOP Object Oriented Programming and Java, following through multiple courses and get a good grasp and understanding of the processes<br>
+Can't wait to really get into Java programming and creating some applications!
+
 <h2>Day 169</h2>
 
 Worked on two projects:<br>
