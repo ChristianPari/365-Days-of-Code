@@ -1,3 +1,20 @@
+<h2>Day 180-181</h2>
+
+Continued work w/ Object Oriented Programming concepts, mostly repeating and going over everything about Encapsulation, Polymorphism, and Inheritance, as well as creating Interfaces and Abstract classes
+
+<h2>Day 178-179</h2>
+
+Spending lots of time learning Object Oriented Programming concepts n capabilities. Focusing on Interfaces and Abstract classes over the weekend, but will be going over this course again to better grasp these concepts
+
+<h2>Day 177</h2>
+
+Spending hours learning to refactor Java code to better use Encapsulation, Getters and Setters, Abstraction, Coupling, Method and Constructor Overloading
+
+<h2>Day 175-176</h2>
+
+Completed most recent React project, a simple hotel site that utilizes the major React hooks; useState, useEffect and useContext and store state of the application within local storage.<br>
+Also continued working w/ Java and completed a course where I got the basic syntax and fundamentals of the language down, as well as some projects and exercises completed
+
 <h2>Day 174</h2>
 
 Almost completed all required tasks for this React hotel project,
