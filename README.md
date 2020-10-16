@@ -1,3 +1,7 @@
+<h2>Day 182</h2>
+
+More focus on Object Oriented Programming concepts, mainly Interfaces but with the 4 pillars mixed throughout, casting, access modifiers, understand exceptions and more
+
 <h2>Day 180-181</h2>
 
 Continued work w/ Object Oriented Programming concepts, mostly repeating and going over everything about Encapsulation, Polymorphism, and Inheritance, as well as creating Interfaces and Abstract classes
