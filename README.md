@@ -1,3 +1,16 @@
+<h2>Day 189-191</h2>
+
+Continuing w/ with Java Collections and Generics, understanding how creating Generic classes and also methods using generic data types are so versatile!<br>
+Also understanding how collections are made and manipulated
+
+<h2>Day 188</h2>
+
+Work w/ Java concepts like inheritance! Working at creating car classes which inherit variable from a super Car class, while also implementing overloaded and overridden methods. Looking forward to more Java challenges!
+
+<h2>Day 183-187</h2>
+
+Constantly working through the advanced ideas of OOP in Java, Exceptions, Generic classes and creating dynamic classes with class parameters
+
 <h2>Day 182</h2>
 
 More focus on Object Oriented Programming concepts, mainly Interfaces but with the 4 pillars mixed throughout, casting, access modifiers, understand exceptions and more
