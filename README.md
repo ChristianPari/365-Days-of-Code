@@ -1,3 +1,7 @@
+<h2>Day 192-194</h2>
+
+Constantly working through exercises to help my understanding of Generic Classes, Exception Handling, Iterating through Collections and utilizing the Iterable and Iterator Interfaces, as well as the Comparable and Comparator Interfaces
+
 <h2>Day 189-191</h2>
 
 Continuing w/ with Java Collections and Generics, understanding how creating Generic classes and also methods using generic data types are so versatile!<br>
