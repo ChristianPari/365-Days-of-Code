@@ -1,3 +1,7 @@
+<h2>Day 195-198</h2>
+
+Busy last couple of days! Continuing to developed my understanding of OOP while programming in Java! Practicing creating classes that inherit from each other n am beginning to build out a small banking-like system!
+
 <h2>Day 192-194</h2>
 
 Constantly working through exercises to help my understanding of Generic Classes, Exception Handling, Iterating through Collections and utilizing the Iterable and Iterator Interfaces, as well as the Comparable and Comparator Interfaces
