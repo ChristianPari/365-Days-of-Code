@@ -1,4 +1,4 @@
-<h2>Day 195-198</h2> 
+<h2>Day 195-198</h2>
 
 Busy last couple of days! Continuing to developed my understanding of OOP while programming in Java! Practicing creating classes that inherit from each other n am beginning to build out a small banking-like system!
 
