@@ -1,3 +1,15 @@
+<h2>Day 205-208</h2>
+
+Have been continuing to work through a Java course to enhance my understanding of OOP concepts, working with Lambda Expressions and also Functional Interfaces like Consumer, Supplier, Function, and Predicate!
+
+<h2>Day 203-204</h2>
+
+Working the past couple days on the simple Java command line hotel project, have been implementing inheritance, encapsulation and polymorphism throughout the packages and classes I have created
+
+<h2>Day 199-202</h2>
+
+Gotta confess that I took a bit of a mental break these last 4 days, I did continue looking over algorithms previously worked on n OOP concepts but time was mainly focused setting up my new laptop thank you LORD, Time to get back to it!
+
 <h2>Day 195-198</h2> 
 
 Busy last couple of days! Continuing to developed my understanding of OOP while programming in Java! Practicing creating classes that inherit from each other n am beginning to build out a small banking-like system!
