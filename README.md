@@ -1,3 +1,8 @@
+<h2>Day 209-214</h2>
+
+Well I haven't been able to do much throughout this last week of coding due to hardware issues with my laptop and contacting @Lenovo but have managed to create a simple CLI Yahtzee die rolling game!<br>
+Other than creation of the CLI Yahtzee die rolling program, I have continued to learn about OOP w/ #java and working with understanding the types of built in Interfaces that Java has, as well as Lambda Expressions!
+
 <h2>Day 205-208</h2>
 
 Have been continuing to work through a Java course to enhance my understanding of OOP concepts, working with Lambda Expressions and also Functional Interfaces like Consumer, Supplier, Function, and Predicate!
