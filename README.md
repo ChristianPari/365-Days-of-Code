@@ -1,3 +1,7 @@
+<h2>Day 215-217</h2>
+
+Having an amazing time recreating this Yahtzee Java program! Really focusing deep on OOP concepts n how to use classes to their fullest ability! V2 allows for multi-players, each player rolls 3 times for best score
+
 <h2>Day 209-214</h2>
 
 Well I haven't been able to do much throughout this last week of coding due to hardware issues with my laptop and contacting @Lenovo but have managed to create a simple CLI Yahtzee die rolling game!<br>
