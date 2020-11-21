@@ -1,3 +1,8 @@
+<h2>Day 218-221</h2>
+
+Still enhancing my Java Yahtzee program, have created packages to hold specific classes according to their uses within the program, as of now I'm working on creating a "holdable" process... which I may have thought of something better! TBA<br>
+As well as Yahtzee, I'm working through an OOP course to help with my understanding of advanced OOP concepts, for now Functional Interfaces and Streams are what I'm currently working through!
+
 <h2>Day 215-217</h2>
 
 Having an amazing time recreating this Yahtzee Java program! Really focusing deep on OOP concepts n how to use classes to their fullest ability! V2 allows for multi-players, each player rolls 3 times for best score
