@@ -1,3 +1,19 @@
+<h2>Day 232-233</h2>
+
+Continued looking over my #Java DnD attack simulator program, have finished the assigned version and am going to be focusing a lot more on algorithms, need to keep my mind fresh w/ thinking algorithmically
+
+<h2>Day 231</h2>
+
+Completed a #Java #dungeonsanddragons CLI attack simulator w/ OOP concepts as the main focus! Finding these mini projects more and more enjoyable and the research of OOP concepts to use is great for learning!
+
+<h2>Day 224-230</h2>
+
+Well it's been a week since I tweeted last, Completely forgot about updating my days of code, but I've been working hard through some projects! Finished a #Java CLI Yahtzee die rolling simulator that utilizes OOP concepts. The Yahtzee program allows up to 4 players to play 13 rounds of die rolling and get the best hand. As for my most recent project, I've been working on creating a #dungeonsanddragons attack simulator in #Java and have completed a simple v1! Am working on a v2 of the #DnD simulator which allows a player to create a character and an enemy to attack, takes in the attributes of both and returns how much damage is inflicted!
+
+<h2>Day 222-223</h2>
+
+Making good progress with my #Java Yahtzee program, reverted back to an older version of code after spending lots of time on a new idea, went through some basic algorithms to get algorithmic thinking flowing again
+
 <h2>Day 218-221</h2>
 
 Still enhancing my Java Yahtzee program, have created packages to hold specific classes according to their uses within the program, as of now I'm working on creating a "holdable" process... which I may have thought of something better! TBA<br>
