@@ -1,3 +1,7 @@
+<h2>Day 234-237</h2>
+
+Over the weekend I spent time working through Hackerranks 30DaysOfJava and other algorithms to get my essential problem solving skills improved, creating projects is awesome but algorithms grow skills
+
 <h2>Day 232-233</h2>
 
 Continued looking over my #Java DnD attack simulator program, have finished the assigned version and am going to be focusing a lot more on algorithms, need to keep my mind fresh w/ thinking algorithmically
