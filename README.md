@@ -1,3 +1,7 @@
+<h2>Day 238-240</h2>
+
+Spent my time working through Java algorithms n 30DaysOfCode, making good progress w/ my ability to think computationally and attack a problem in an effective way, then going back converting to a better solution! Aside from algorithms I've also began a new program to create another #Java CLI Hotel, so far I've just created the classes and packages I know I'll be using and will begin coding out the logic next!
+
 <h2>Day 234-237</h2>
 
 Over the weekend I spent time working through Hackerranks 30DaysOfJava and other algorithms to get my essential problem solving skills improved, creating projects is awesome but algorithms grow skills
