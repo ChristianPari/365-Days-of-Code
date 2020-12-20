@@ -1,3 +1,12 @@
+<h2>Day 248-250</h2>
+
+Am starting to dive deeper into Java Interfacing and Abstract Classes. Currently working through more of Hackerranks 30 Days of Java and am currently on Day 18, also planning on working through more algorithms as always to enhance my problem solving skills
+
+<h2>Day 241-247</h2>
+
+Took the weekend off to allows my forarms and wrists to heal from what seemed to be early signs of carpal tunnel, after the rest I
+foucsed on 30 Days of Java via Hackerrank to enhance my algorthmic skills and understanding how to properly use Interfaces within a java program to write clean and efficient dcoupled code
+
 <h2>Day 238-240</h2>
 
 Spent my time working through Java algorithms n 30DaysOfCode, making good progress w/ my ability to think computationally and attack a problem in an effective way, then going back converting to a better solution! Aside from algorithms I've also began a new program to create another #Java CLI Hotel, so far I've just created the classes and packages I know I'll be using and will begin coding out the logic next!
