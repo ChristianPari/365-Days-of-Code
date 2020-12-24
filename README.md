@@ -1,3 +1,7 @@
+<h2>Day 251-253</h2>
+
+Working through more days of #30DaysOfJava; working w/ Data Structures like Linked Lists, Queues n Stacks; completing sorting algorithms n also practicing w/ Generics! Beginning to learn abut Binary Search Trees too!
+
 <h2>Day 248-250</h2>
 
 Am starting to dive deeper into Java Interfacing and Abstract Classes. Currently working through more of Hackerranks 30 Days of Java and am currently on Day 18, also planning on working through more algorithms as always to enhance my problem solving skills
