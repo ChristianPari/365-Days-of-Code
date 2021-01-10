@@ -1,3 +1,20 @@
+<h2>Day 269</h2>
+
+Working through creating another Java program game called Liars Dice, more practice creating clean classes and small methods, working towards better OOP design and skills! Also complete 30DaysOfCode Day25
+
+<h2>Day 260-268</h2>
+
+It's good to be back! Finally almost fully recovered from COVID-19 n can not wait to get back into coding! Left off learning about Interfaces and Abstract Classes in #Java as well as completing 30DaysOfCode, currently on Day 25!
+
+<h2>Day 259</h2>
+
+More work w/ Binary Search Trees as I learn about Traversing thru in Level Order to print the data from w/in the each Node. Learning to use Queues as a way to store n access the data so I can search each lvl of the tree
+
+<h2>Day 254-258</h2>
+
+Throughly enjoyed the blessing of Christmas break and time with my family<br>
+As for code tho?! I'm picking back up with 30DaysOfJava n learning about Binary Search Trees, so far confusing but am researching a lot!
+
 <h2>Day 251-253</h2>
 
 Working through more days of #30DaysOfJava; working w/ Data Structures like Linked Lists, Queues n Stacks; completing sorting algorithms n also practicing w/ Generics! Beginning to learn abut Binary Search Trees too!
