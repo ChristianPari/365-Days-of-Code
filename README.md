@@ -1,8 +1,8 @@
-<h2>Day 281/h2>
+<h2>Day 281</h2>
 
 Created a method w/in my Bank Class that allows the bank to close a bank account according the Integer passed in, method gets the account from the HashMap of accounts n the Client associated w/ the account n removes it
 
-<h2>Day 279-280/h2>
+<h2>Day 279-280</h2>
 
 Been working on a Bank java program, implementing methods for a new Bank Class that will contain the Clients n Accounts (classes) for the program, Bank features so far: adding and creating Accounts and Clients by pass through methods. Logic for creation is done within the other classes but Bank initiates the action while the sub classes handle the creating. Focusing on OOP centered coding and feel my understanding for Interfaces growing!
 
