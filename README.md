@@ -1,3 +1,35 @@
+<h2>Day 281/h2>
+
+Created a method w/in my Bank Class that allows the bank to close a bank account according the Integer passed in, method gets the account from the HashMap of accounts n the Client associated w/ the account n removes it
+
+<h2>Day 279-280/h2>
+
+Been working on a Bank java program, implementing methods for a new Bank Class that will contain the Clients n Accounts (classes) for the program, Bank features so far: adding and creating Accounts and Clients by pass through methods. Logic for creation is done within the other classes but Bank initiates the action while the sub classes handle the creating. Focusing on OOP centered coding and feel my understanding for Interfaces growing!
+
+<h2>Day 277-278</h2>
+
+Created 2 fully functioning Java BlackJack CLI programs, one was done as a code along to learn new techniques w/ OOP while the the other was done entirely by myself before the code along to see where I am at!
+
+<h2>Day 276</h2>
+
+Started a Java BlackJack project, mostly finished with the game logic and all necessary classes are created, trying to find more ways to implement Interfaces or Abstract Classes to work on my OOP skills
+
+<h2>Day 275</h2>
+
+Worked on fixing some bugs w/in a few Java projects, Liars Dice needed a way to track amount of dice in play to display to users n the Modulo Alg needed logic adjustment for concat of AM/PM after the time in converted
+
+<h2>Day 273-274</h2>
+
+Completed a fully functional LiarsDice CLI Java program/game, great practice for my OOP skills. This game incorporated modulo which lead me to research more of how it's used. Creating a new BlackJack game as well!
+
+<h2>Day 272</h2>
+
+Finally completed hackerrank's 30DaysOfCode in #Java! Very excited and learned a lot, along with new techniques and data types, also completely new terminology for me to soak in!
+
+<h2>Day 270-271</h2>
+
+Continuing to work through 30DaysOfCode while focusing on completing algorithms in a way that have the most effective coding time complexity. Understanding how long code takes to run is helping me understand the real world connections!
+
 <h2>Day 269</h2>
 
 Working through creating another Java program game called Liars Dice, more practice creating clean classes and small methods, working towards better OOP design and skills! Also complete 30DaysOfCode Day25
