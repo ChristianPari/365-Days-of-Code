@@ -1,3 +1,8 @@
+<h2>Day 282-284</h2>
+
+Working through Java algorithms n researching/deciding on what project type I want to pursue for my first CAPSTONE project n show off my new found programming skills n abilities!
+WebScraper or MERN Stack 🤔 .....
+
 <h2>Day 281</h2>
 
 Created a method w/in my Bank Class that allows the bank to close a bank account according the Integer passed in, method gets the account from the HashMap of accounts n the Client associated w/ the account n removes it
