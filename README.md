@@ -1,3 +1,11 @@
+<h2>Day 286-288</h2>
+
+Converted the previous BankAccount creation (an Interface nd a Parent Class that implemented it, this had Child Classes that would then Inherit the Parent), worked but execution w/ an Abstract Class made more sense!
+
+<h2>Day 285</h2>
+
+Completed a Java alg as a warm up n get my mind flowing, alg was to calculate max miles on fuel w/ consumption restrictions n variables. Researching SpringBoot n beginning to understand how to create the HTTP methods
+
 <h2>Day 282-284</h2>
 
 Working through Java algorithms n researching/deciding on what project type I want to pursue for my first CAPSTONE project n show off my new found programming skills n abilities!
