@@ -1,3 +1,7 @@
+<h2>Day 289</h2>
+
+Challenging myself to move on to larger scale projects, am now starting a Company-like HR Directory Program using Java, will implement Springboot and MySQL after creating the logic for the program! This will be my first project w/ SpringBoot and SQL DB!
+
 <h2>Day 286-288</h2>
 
 Converted the previous BankAccount creation (an Interface nd a Parent Class that implemented it, this had Child Classes that would then Inherit the Parent), worked but execution w/ an Abstract Class made more sense!
