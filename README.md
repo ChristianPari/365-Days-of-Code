@@ -1,3 +1,23 @@
+<h2>Day 299-300</h2>
+
+CLI version of a Java HR Directory has the major components created, next is to get MySQL setup so I can read and write to a DB! Doing research/practicing the syntax for SQL DBs table creation and inserting data
+
+<h2>Day 297-298</h2>
+
+Working on understanding the annotation use cases for SpringBoot package Web that allows you to create HTTP reqs, making progress w/ my HR Directory Java app, tonight's focus will be SQL setup and syntax!
+
+<h2>Day 294-296</h2>
+
+Focusing a lot on #BatchProcessing bc I'll be teaching on it in class soon. I've gone through n created a small scale example, going to expand my knowledge more w/ SpringBatch to understand the processes better!
+
+<h2>Day 293</h2>
+
+Created my first GET req using #SpringBoot, reading documentation and watching videos on the process and how mapping works for reqs! Very excited and can't wait to begin creating projects implementing SB and MySQL
+
+<h2>Day 290-292</h2>
+
+Started building out a Java CLI version of a HR Directory application, this version will allow for a user to make a directory, add remove or edit contacts to the directory and print it out to the console for use
+
 <h2>Day 289</h2>
 
 Challenging myself to move on to larger scale projects, am now starting a Company-like HR Directory Program using Java, will implement Springboot and MySQL after creating the logic for the program! This will be my first project w/ SpringBoot and SQL DB!
