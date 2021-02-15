@@ -1,3 +1,7 @@
+<h2>Day 301-304</h2>
+
+Work w/ CRUD n MySQL to get a DB connection for my Java HR Directory app, routes are setup, next is creation of React FE. Researching more on Hibernate n Batch Processing which I'll be teaching on next week in class
+
 <h2>Day 299-300</h2>
 
 CLI version of a Java HR Directory has the major components created, next is to get MySQL setup so I can read and write to a DB! Doing research/practicing the syntax for SQL DBs table creation and inserting data
