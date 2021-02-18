@@ -1,3 +1,7 @@
+<h2>Day 305-306</h2>
+
+Researching topics n documentation of creating RESTful APIs in Java w/ SpringBoot n utilizing a SQL database to store my Contact Entities for my Java App. Next will be creation of a User System, n React FE
+
 <h2>Day 301-304</h2>
 
 Work w/ CRUD n MySQL to get a DB connection for my Java HR Directory app, routes are setup, next is creation of React FE. Researching more on Hibernate n Batch Processing which I'll be teaching on next week in class
