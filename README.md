@@ -1,3 +1,7 @@
+<h2>Day 307-309</h2>
+
+Began creation of React FE for Java Contact Directory App, simple to just get data on screen, will style later. So far have successful XHR reqs, getting refamiliarized w/ Reacts useState, useEffect, also axios!
+
 <h2>Day 305-306</h2>
 
 Researching topics n documentation of creating RESTful APIs in Java w/ SpringBoot n utilizing a SQL database to store my Contact Entities for my Java App. Next will be creation of a User System, n React FE
