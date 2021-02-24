@@ -1,3 +1,11 @@
+<h2>Day 312-313</h2>
+
+Working w/ Java security n Auth using WebSecurityConfigurator n Digest to understand the use of Auth in a Java app and ontinuing work on REST JPA Hibernate and making successful CRUD requests
+
+<h2>Day 310-311</h2>
+
+Using RestTemplate framework in Java to send HTTP Requests the Java API I created for my HR Directory App and successfully made CRUD reqs with data in response from the Database, implementing into my project
+
 <h2>Day 307-309</h2>
 
 Began creation of React FE for Java Contact Directory App, simple to just get data on screen, will style later. So far have successful XHR reqs, getting refamiliarized w/ Reacts useState, useEffect, also axios!
