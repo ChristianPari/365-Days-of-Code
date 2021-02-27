@@ -1,3 +1,7 @@
+<h2>Day 314-315</h2>
+
+Finally found a good resource to help me understand Batch Processing, coded out a walkthrough that I will be using/presenting during class next week to teach on the topic, will be using Spring Batch 
+
 <h2>Day 312-313</h2>
 
 Working w/ Java security n Auth using WebSecurityConfigurator n Digest to understand the use of Auth in a Java app and ontinuing work on REST JPA Hibernate and making successful CRUD requests
