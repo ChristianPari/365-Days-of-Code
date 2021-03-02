@@ -1,3 +1,7 @@
+<h2>Day 316-317</h2>
+
+Did a ractice run through my Batch Processing lesson and think I have a fairly good understanding on what I have coded and feel confident to teach it to my classmates! Created new components for my HR Directory App and have created more CRUD requests that are done successfully, plan to implement some error loggic soon but want to ensure everything works as planned.
+
 <h2>Day 314-315</h2>
 
 Finally found a good resource to help me understand Batch Processing, coded out a walkthrough that I will be using/presenting during class next week to teach on the topic, will be using Spring Batch 
