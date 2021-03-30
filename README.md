@@ -1,3 +1,35 @@
+<h2>Day 339-345</h2>
+
+Completed a web scraper program in Python that uses Selenium Scrapy n BeautifulSoup, all scrape their own sports site to get player data from each leagues teams n write to csv files! Began working again on my Java phone book app for a HR of a company, working on the FrontEnd now with ReactJS to connect to my SpringBoot backend! Working on my use of Bootstrap as well! 
+
+<h2>Day 335-338</h2>
+
+Diving so deep into WebScraping w/ Python! Getting great experience w/ Selenium BeautifulSoup4 n next up is Scrapy. I'm creating a 3 sport web scraper project using these 3 frameworks for each script!
+
+<h2>Day 333-334</h2>
+
+Working on a Python WebScraper that'll use Selenium to navigate thru a sports stat site, scrape every current players name and position from the each team nd store in a CSV! Goal is to create a SQL with the data
+
+<h2>Day 331-332</h2>
+
+Am starting to completely change the styling / design of the DevChat #React App using CSS Bootstrap, will be refactoring the project structure to be more de-structured for multi-use components n pages!
+
+<h2>Day 327-330</h2>
+
+Spent the weekend learning Socketio to create a messaging app w/ React NodeJS! Am going to create a resume worthy application with the new knowledge!
+
+<h2>Day 325-326</h2>
+
+Spent these last 2 days working through a solution to allow me to use SpringSecurity w/ my React FE Login/SignUp pages instead of the default one use by the framework. Decent progress on my Java HR Directory App! Also spent time learning the basics to AI/ML programming with Python using anaconda and Jupyter
+
+<h2>Day 321-324</h2>
+
+Continuing to work on n build out my Java FullStackApp w/ React, working on implementing SpringSecurity w/ my own React Login/Register pages! User Auth aspect in progress, n FE is in development 
+
+<h2>Day 318-320</h2>
+
+Continued research on BatchProcessing testing small process w/ BigData to see execution time changes, can't wait to tackle a BigData project! Creating new version of my Java HR App, going to use Bootstrap React
+
 <h2>Day 316-317</h2>
 
 Did a ractice run through my Batch Processing lesson and think I have a fairly good understanding on what I have coded and feel confident to teach it to my classmates! Created new components for my HR Directory App and have created more CRUD requests that are done successfully, plan to implement some error loggic soon but want to ensure everything works as planned.
