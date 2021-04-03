@@ -1,5 +1,9 @@
 <h2>Day 339-345</h2>
 
+Continued work on my Java Fullstack App to create a HR directory for companies, signup / signin features being created utilizing Spring Security. Recently added CORS handling and working on errors during routing
+
+<h2>Day 339-345</h2>
+
 Completed a web scraper program in Python that uses Selenium Scrapy n BeautifulSoup, all scrape their own sports site to get player data from each leagues teams n write to csv files! Began working again on my Java phone book app for a HR of a company, working on the FrontEnd now with ReactJS to connect to my SpringBoot backend! Working on my use of Bootstrap as well! 
 
 <h2>Day 335-338</h2>
