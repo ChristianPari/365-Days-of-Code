@@ -1,4 +1,4 @@
-<h2>Day 339-345</h2>
+<h2>Day 346-350</h2>
 
 Continued work on my Java Fullstack App to create a HR directory for companies, signup / signin features being created utilizing Spring Security. Recently added CORS handling and working on errors during routing
 
