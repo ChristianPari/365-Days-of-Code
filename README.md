@@ -1,3 +1,7 @@
+<h2>Day 351-352</h2>
+
+Working on understanding Two Factor Auth, created a basic program using Flask Python Twilio and Authy to create a simple OTP 2FA
+
 <h2>Day 346-350</h2>
 
 Continued work on my Java Fullstack App to create a HR directory for companies, signup / signin features being created utilizing Spring Security. Recently added CORS handling and working on errors during routing
