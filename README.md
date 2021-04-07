@@ -1,3 +1,7 @@
+<h3>Day 353-365<h3>
+
+Somehow I managed to tweet less than days I coded since I have now completed 1 round of 365 Days of Code! I will be starting round 2 this week!
+
 <h2>Day 351-352</h2>
 
 Working on understanding Two Factor Auth, created a basic program using Flask Python Twilio and Authy to create a simple OTP 2FA
