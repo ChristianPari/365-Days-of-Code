@@ -1,3 +1,23 @@
+<h3>R2 Day 6<h3>
+
+Constant working on these #Java algorithms w/ Big O Notation n Time Complexity in mind since I have been getting to the point where most tests pass but others take too long, solving tho!
+
+<h3>R2 Day 5<h3>
+
+More work with algorithms! Java Focusing now on Array Manipulation!
+
+<h3>R2 Day 4<h3>
+
+Continuing to work through these Java Interview Prep algorithms / challenges! Getting great practice with DataStructures n algorithmic thinking, very satisfying seeing all the checks on the test input results 
+
+<h3>R2 Day 2-3<h3>
+
+Continuing work with algorithms to get my mind and algorithmic thinking sharp again! Currently solving the challenges in Java!
+
+<h3>R2 Day 1<h3>
+
+Today begins my second go around of 365 days of code! Beginning with a heavy push in algorithms and other interview prep challenges! Will also be brushing up on SpringBoot and SQL in the near future, lots to do!
+
 <h3>Day 353-365<h3>
 
 Somehow I managed to tweet less than days I coded since I have now completed 1 round of 365 Days of Code! I will be starting round 2 this week!
