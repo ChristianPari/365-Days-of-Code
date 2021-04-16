@@ -1,3 +1,7 @@
+<h3>R2 Day 7-8</h3>
+
+If anyone ever said "You're spending too much time doing algorithms" they were not prepared for the world of problem solving. Continuing to push out #Java algs each day! Constantly working on Java Interview Prep Algorithms!
+
 <h3>R2 Day 6<h3>
 
 Constant working on these #Java algorithms w/ Big O Notation n Time Complexity in mind since I have been getting to the point where most tests pass but others take too long, solving tho!
