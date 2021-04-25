@@ -1,3 +1,7 @@
+<h3>R2 Day 9-18</h3>
+
+Wow can't believe I've been forgetting to tweet this whole time... Haven't missed a push tho since my last tweet and am still cranking out algorithms and challenges for #Java Interview Prep!
+
 <h3>R2 Day 7-8</h3>
 
 If anyone ever said "You're spending too much time doing algorithms" they were not prepared for the world of problem solving. Continuing to push out #Java algs each day! Constantly working on Java Interview Prep Algorithms!
