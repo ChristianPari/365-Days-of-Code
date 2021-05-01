@@ -1,3 +1,7 @@
+<h3>R2 Day 19-24</h3>
+
+Frequent updates to here doesn't seem to be most important, focused on getting my algorithmic thinking n problem solving skills as fine tuned as possible to prep for the interviewing process!
+
 <h3>R2 Day 9-18</h3>
 
 Wow can't believe I've been forgetting to tweet this whole time... Haven't missed a push tho since my last tweet and am still cranking out algorithms and challenges for #Java Interview Prep!
