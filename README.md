@@ -1,3 +1,7 @@
+<h3>R2 Day 25-27</h3>
+
+Pumping out algorithms n increasing difficulty as I progress. Lots of practice w/ data structures, algorithmic problem solving, BigO Notation n time complexity so I can solve problems w/ a faster execution time!
+
 <h3>R2 Day 19-24</h3>
 
 Frequent updates to here doesn't seem to be most important, focused on getting my algorithmic thinking n problem solving skills as fine tuned as possible to prep for the interviewing process!
